@@ -3,7 +3,7 @@
 Funcionalidade: Tela de produto
 Como cliente da EBAC Shop
 Quero configurar meu produto de acordo com meu tamanho e gosto
-E escolher a quatidade 
+E escolher a quantidade 
 Para depois colocar no carrinho  
 
 Cenário: Validar cor, tamanho e quantidade obrigatórios 
